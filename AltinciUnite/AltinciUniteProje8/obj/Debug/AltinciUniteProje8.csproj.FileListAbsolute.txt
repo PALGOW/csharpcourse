@@ -1,0 +1,10 @@
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\AltinciUnite\AltinciUniteProje8\bin\Debug\AltinciUniteProje8.exe.config
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\AltinciUnite\AltinciUniteProje8\bin\Debug\AltinciUniteProje8.exe
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\AltinciUnite\AltinciUniteProje8\bin\Debug\AltinciUniteProje8.pdb
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\AltinciUnite\AltinciUniteProje8\obj\Debug\AltinciUniteProje8.csproj.AssemblyReference.cache
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\AltinciUnite\AltinciUniteProje8\obj\Debug\AltinciUniteProje8.Form1.resources
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\AltinciUnite\AltinciUniteProje8\obj\Debug\AltinciUniteProje8.Properties.Resources.resources
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\AltinciUnite\AltinciUniteProje8\obj\Debug\AltinciUniteProje8.csproj.GenerateResource.cache
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\AltinciUnite\AltinciUniteProje8\obj\Debug\AltinciUniteProje8.csproj.CoreCompileInputs.cache
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\AltinciUnite\AltinciUniteProje8\obj\Debug\AltinciUniteProje8.exe
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\AltinciUnite\AltinciUniteProje8\obj\Debug\AltinciUniteProje8.pdb

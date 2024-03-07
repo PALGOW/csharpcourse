@@ -1,0 +1,10 @@
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUnite\BesinciUniteProje10\bin\Debug\BesinciUniteProje10.exe.config
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUnite\BesinciUniteProje10\bin\Debug\BesinciUniteProje10.exe
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUnite\BesinciUniteProje10\bin\Debug\BesinciUniteProje10.pdb
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUnite\BesinciUniteProje10\obj\Debug\BesinciUniteProje10.csproj.AssemblyReference.cache
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUnite\BesinciUniteProje10\obj\Debug\BesinciUniteProje10.Form1.resources
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUnite\BesinciUniteProje10\obj\Debug\BesinciUniteProje10.Properties.Resources.resources
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUnite\BesinciUniteProje10\obj\Debug\BesinciUniteProje10.csproj.GenerateResource.cache
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUnite\BesinciUniteProje10\obj\Debug\BesinciUniteProje10.csproj.CoreCompileInputs.cache
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUnite\BesinciUniteProje10\obj\Debug\BesinciUniteProje10.exe
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUnite\BesinciUniteProje10\obj\Debug\BesinciUniteProje10.pdb

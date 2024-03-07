@@ -1,0 +1,16 @@
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUniteProje1\bin\Debug\net8.0-windows\BesinciUniteProje1.exe
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUniteProje1\bin\Debug\net8.0-windows\BesinciUniteProje1.deps.json
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUniteProje1\bin\Debug\net8.0-windows\BesinciUniteProje1.runtimeconfig.json
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUniteProje1\bin\Debug\net8.0-windows\BesinciUniteProje1.dll
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUniteProje1\bin\Debug\net8.0-windows\BesinciUniteProje1.pdb
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUniteProje1\obj\Debug\net8.0-windows\BesinciUniteProje1.Form1.resources
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUniteProje1\obj\Debug\net8.0-windows\BesinciUniteProje1.csproj.GenerateResource.cache
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUniteProje1\obj\Debug\net8.0-windows\BesinciUniteProje1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUniteProje1\obj\Debug\net8.0-windows\BesinciUniteProje1.AssemblyInfoInputs.cache
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUniteProje1\obj\Debug\net8.0-windows\BesinciUniteProje1.AssemblyInfo.cs
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUniteProje1\obj\Debug\net8.0-windows\BesinciUniteProje1.csproj.CoreCompileInputs.cache
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUniteProje1\obj\Debug\net8.0-windows\BesinciUniteProje1.dll
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUniteProje1\obj\Debug\net8.0-windows\refint\BesinciUniteProje1.dll
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUniteProje1\obj\Debug\net8.0-windows\BesinciUniteProje1.pdb
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUniteProje1\obj\Debug\net8.0-windows\BesinciUniteProje1.genruntimeconfig.cache
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\BesinciUniteProje1\obj\Debug\net8.0-windows\ref\BesinciUniteProje1.dll

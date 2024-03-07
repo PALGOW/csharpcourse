@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Udemy Kurslar\DorduncuUniteIkinciProje\bin\Debug\net8.0-windows\DorduncuUniteIkinciProje.exe
+C:\Users\Administrator\Desktop\Udemy Kurslar\DorduncuUniteIkinciProje\bin\Debug\net8.0-windows\DorduncuUniteIkinciProje.deps.json
+C:\Users\Administrator\Desktop\Udemy Kurslar\DorduncuUniteIkinciProje\bin\Debug\net8.0-windows\DorduncuUniteIkinciProje.runtimeconfig.json
+C:\Users\Administrator\Desktop\Udemy Kurslar\DorduncuUniteIkinciProje\bin\Debug\net8.0-windows\DorduncuUniteIkinciProje.dll
+C:\Users\Administrator\Desktop\Udemy Kurslar\DorduncuUniteIkinciProje\bin\Debug\net8.0-windows\DorduncuUniteIkinciProje.pdb
+C:\Users\Administrator\Desktop\Udemy Kurslar\DorduncuUniteIkinciProje\obj\Debug\net8.0-windows\DorduncuUniteIkinciProje.Form1.resources
+C:\Users\Administrator\Desktop\Udemy Kurslar\DorduncuUniteIkinciProje\obj\Debug\net8.0-windows\DorduncuUniteIkinciProje.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Udemy Kurslar\DorduncuUniteIkinciProje\obj\Debug\net8.0-windows\DorduncuUniteIkinciProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Udemy Kurslar\DorduncuUniteIkinciProje\obj\Debug\net8.0-windows\DorduncuUniteIkinciProje.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Udemy Kurslar\DorduncuUniteIkinciProje\obj\Debug\net8.0-windows\DorduncuUniteIkinciProje.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Udemy Kurslar\DorduncuUniteIkinciProje\obj\Debug\net8.0-windows\DorduncuUniteIkinciProje.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Udemy Kurslar\DorduncuUniteIkinciProje\obj\Debug\net8.0-windows\DorduncuUniteIkinciProje.dll
+C:\Users\Administrator\Desktop\Udemy Kurslar\DorduncuUniteIkinciProje\obj\Debug\net8.0-windows\refint\DorduncuUniteIkinciProje.dll
+C:\Users\Administrator\Desktop\Udemy Kurslar\DorduncuUniteIkinciProje\obj\Debug\net8.0-windows\DorduncuUniteIkinciProje.pdb
+C:\Users\Administrator\Desktop\Udemy Kurslar\DorduncuUniteIkinciProje\obj\Debug\net8.0-windows\DorduncuUniteIkinciProje.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Udemy Kurslar\DorduncuUniteIkinciProje\obj\Debug\net8.0-windows\ref\DorduncuUniteIkinciProje.dll

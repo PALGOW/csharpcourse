@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntDegisken", "IntDegisken.csproj", "{56041973-62C6-42A7-9400-B200C90068DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56041973-62C6-42A7-9400-B200C90068DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56041973-62C6-42A7-9400-B200C90068DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56041973-62C6-42A7-9400-B200C90068DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56041973-62C6-42A7-9400-B200C90068DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20F63167-3920-4A4D-8BB5-5124799BFD6F}
+	EndGlobalSection
+EndGlobal

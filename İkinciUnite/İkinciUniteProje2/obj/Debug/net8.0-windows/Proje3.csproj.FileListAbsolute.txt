@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\Udemy Kurslar\Proje3\bin\Debug\net8.0-windows\Proje3.exe
+C:\Users\Administrator\Desktop\Udemy Kurslar\Proje3\bin\Debug\net8.0-windows\Proje3.deps.json
+C:\Users\Administrator\Desktop\Udemy Kurslar\Proje3\bin\Debug\net8.0-windows\Proje3.runtimeconfig.json
+C:\Users\Administrator\Desktop\Udemy Kurslar\Proje3\bin\Debug\net8.0-windows\Proje3.dll
+C:\Users\Administrator\Desktop\Udemy Kurslar\Proje3\bin\Debug\net8.0-windows\Proje3.pdb
+C:\Users\Administrator\Desktop\Udemy Kurslar\Proje3\obj\Debug\net8.0-windows\Proje3.Form1.resources
+C:\Users\Administrator\Desktop\Udemy Kurslar\Proje3\obj\Debug\net8.0-windows\Proje3.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Udemy Kurslar\Proje3\obj\Debug\net8.0-windows\Proje3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Udemy Kurslar\Proje3\obj\Debug\net8.0-windows\Proje3.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Udemy Kurslar\Proje3\obj\Debug\net8.0-windows\Proje3.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Udemy Kurslar\Proje3\obj\Debug\net8.0-windows\Proje3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Udemy Kurslar\Proje3\obj\Debug\net8.0-windows\Proje3.dll
+C:\Users\Administrator\Desktop\Udemy Kurslar\Proje3\obj\Debug\net8.0-windows\refint\Proje3.dll
+C:\Users\Administrator\Desktop\Udemy Kurslar\Proje3\obj\Debug\net8.0-windows\Proje3.pdb
+C:\Users\Administrator\Desktop\Udemy Kurslar\Proje3\obj\Debug\net8.0-windows\Proje3.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Udemy Kurslar\Proje3\obj\Debug\net8.0-windows\ref\Proje3.dll
+C:\Users\Administrator\Desktop\Udemy Kurslar\Proje3\obj\Debug\net8.0-windows\Proje3.Properties.Resources.resources

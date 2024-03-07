@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Udemy Kurslar\4.Unite3.Proje\bin\Debug\net8.0-windows\4.Unite3.Proje.exe
+C:\Users\Administrator\Desktop\Udemy Kurslar\4.Unite3.Proje\bin\Debug\net8.0-windows\4.Unite3.Proje.deps.json
+C:\Users\Administrator\Desktop\Udemy Kurslar\4.Unite3.Proje\bin\Debug\net8.0-windows\4.Unite3.Proje.runtimeconfig.json
+C:\Users\Administrator\Desktop\Udemy Kurslar\4.Unite3.Proje\bin\Debug\net8.0-windows\4.Unite3.Proje.dll
+C:\Users\Administrator\Desktop\Udemy Kurslar\4.Unite3.Proje\bin\Debug\net8.0-windows\4.Unite3.Proje.pdb
+C:\Users\Administrator\Desktop\Udemy Kurslar\4.Unite3.Proje\obj\Debug\net8.0-windows\_4.Unite3.Proje.Form1.resources
+C:\Users\Administrator\Desktop\Udemy Kurslar\4.Unite3.Proje\obj\Debug\net8.0-windows\4.Unite3.Proje.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Udemy Kurslar\4.Unite3.Proje\obj\Debug\net8.0-windows\4.Unite3.Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Udemy Kurslar\4.Unite3.Proje\obj\Debug\net8.0-windows\4.Unite3.Proje.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Udemy Kurslar\4.Unite3.Proje\obj\Debug\net8.0-windows\4.Unite3.Proje.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Udemy Kurslar\4.Unite3.Proje\obj\Debug\net8.0-windows\4.Unite3.Proje.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Udemy Kurslar\4.Unite3.Proje\obj\Debug\net8.0-windows\4.Unite3.Proje.dll
+C:\Users\Administrator\Desktop\Udemy Kurslar\4.Unite3.Proje\obj\Debug\net8.0-windows\refint\4.Unite3.Proje.dll
+C:\Users\Administrator\Desktop\Udemy Kurslar\4.Unite3.Proje\obj\Debug\net8.0-windows\4.Unite3.Proje.pdb
+C:\Users\Administrator\Desktop\Udemy Kurslar\4.Unite3.Proje\obj\Debug\net8.0-windows\4.Unite3.Proje.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Udemy Kurslar\4.Unite3.Proje\obj\Debug\net8.0-windows\ref\4.Unite3.Proje.dll

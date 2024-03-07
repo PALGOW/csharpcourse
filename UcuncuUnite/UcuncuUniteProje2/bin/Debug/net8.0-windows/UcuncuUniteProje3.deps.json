@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UcuncuUniteProje3/1.0.0": {
+        "runtime": {
+          "UcuncuUniteProje3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UcuncuUniteProje3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

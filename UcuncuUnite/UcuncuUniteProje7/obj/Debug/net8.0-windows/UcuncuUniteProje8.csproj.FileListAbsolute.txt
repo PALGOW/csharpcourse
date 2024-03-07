@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\Udemy Kurslar\UcuncuUniteProje8\bin\Debug\net8.0-windows\UcuncuUniteProje8.exe
+C:\Users\Administrator\Desktop\Udemy Kurslar\UcuncuUniteProje8\bin\Debug\net8.0-windows\UcuncuUniteProje8.deps.json
+C:\Users\Administrator\Desktop\Udemy Kurslar\UcuncuUniteProje8\bin\Debug\net8.0-windows\UcuncuUniteProje8.runtimeconfig.json
+C:\Users\Administrator\Desktop\Udemy Kurslar\UcuncuUniteProje8\bin\Debug\net8.0-windows\UcuncuUniteProje8.dll
+C:\Users\Administrator\Desktop\Udemy Kurslar\UcuncuUniteProje8\bin\Debug\net8.0-windows\UcuncuUniteProje8.pdb
+C:\Users\Administrator\Desktop\Udemy Kurslar\UcuncuUniteProje8\obj\Debug\net8.0-windows\UcuncuUniteProje8.Form1.resources
+C:\Users\Administrator\Desktop\Udemy Kurslar\UcuncuUniteProje8\obj\Debug\net8.0-windows\UcuncuUniteProje8.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Udemy Kurslar\UcuncuUniteProje8\obj\Debug\net8.0-windows\UcuncuUniteProje8.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Udemy Kurslar\UcuncuUniteProje8\obj\Debug\net8.0-windows\UcuncuUniteProje8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Udemy Kurslar\UcuncuUniteProje8\obj\Debug\net8.0-windows\UcuncuUniteProje8.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Udemy Kurslar\UcuncuUniteProje8\obj\Debug\net8.0-windows\UcuncuUniteProje8.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Udemy Kurslar\UcuncuUniteProje8\obj\Debug\net8.0-windows\UcuncuUniteProje8.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Udemy Kurslar\UcuncuUniteProje8\obj\Debug\net8.0-windows\UcuncuUniteProje8.dll
+C:\Users\Administrator\Desktop\Udemy Kurslar\UcuncuUniteProje8\obj\Debug\net8.0-windows\refint\UcuncuUniteProje8.dll
+C:\Users\Administrator\Desktop\Udemy Kurslar\UcuncuUniteProje8\obj\Debug\net8.0-windows\UcuncuUniteProje8.pdb
+C:\Users\Administrator\Desktop\Udemy Kurslar\UcuncuUniteProje8\obj\Debug\net8.0-windows\UcuncuUniteProje8.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Udemy Kurslar\UcuncuUniteProje8\obj\Debug\net8.0-windows\ref\UcuncuUniteProje8.dll

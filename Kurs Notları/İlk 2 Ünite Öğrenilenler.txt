@@ -1,0 +1,18 @@
+button
+label
+textbox
+listbox
+combobox
+maskedtextbox
+picturebox
+datetimepicker
+.text
+nereye nereden
+soldaki nereye gideceği sağdaki nereden geleceği combobox1'den label9'a gidecek.
+radiobutton
+panel
+groupbox
+checkbox
+richtextbox
+passwordChar
+MessageBox.Show kutu gösterir

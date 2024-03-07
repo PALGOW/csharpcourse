@@ -1,0 +1,24 @@
+toint16
+toint32
+toint64
+
+Convert.ToInt16();
+
+klavyeden virgül
+koddan nokta
+ort.ToString("0.00") ne kadar çok sıfır o kadar çok basamak
+
+ürün adı
+yüz de 8 18 kdvli hali
+textboxa yazdır
+fiyat girdir
+
+
+char tek karakterlik veriler içindir
+
+klaveyeden kısa kenari girilen ve uzun kenarın dikdörtgen alanı hesabı
+
+yarıcapı girilen çemberin çevre alan
+4 sınav notunu hesaplayan
+3 tane sayıya dort islem uygulayan program
+

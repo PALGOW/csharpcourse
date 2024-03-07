@@ -1,0 +1,14 @@
+For
+While
+Do / While
+Foreach
+
+
+For(1;2;3;)
+
+1: başlangıç
+2: bitiş
+3: artış/azalış
+
+ 
+

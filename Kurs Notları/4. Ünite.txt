@@ -1,0 +1,14 @@
+== sorgulama (eşit mi)
+= atama
+>=
+<=
+!= eşit değilse
+&& ve
++-*/ aritmetik işlem
+|| veya
+% mod (kalan)
+
+switch case
+
+
+

@@ -1,0 +1,14 @@
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\YedinciUnite\YedinciUniteProje3\bin\Debug\net8.0\YedinciUniteProje3.exe
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\YedinciUnite\YedinciUniteProje3\bin\Debug\net8.0\YedinciUniteProje3.deps.json
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\YedinciUnite\YedinciUniteProje3\bin\Debug\net8.0\YedinciUniteProje3.runtimeconfig.json
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\YedinciUnite\YedinciUniteProje3\bin\Debug\net8.0\YedinciUniteProje3.dll
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\YedinciUnite\YedinciUniteProje3\bin\Debug\net8.0\YedinciUniteProje3.pdb
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\YedinciUnite\YedinciUniteProje3\obj\Debug\net8.0\YedinciUniteProje3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\YedinciUnite\YedinciUniteProje3\obj\Debug\net8.0\YedinciUniteProje3.AssemblyInfoInputs.cache
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\YedinciUnite\YedinciUniteProje3\obj\Debug\net8.0\YedinciUniteProje3.AssemblyInfo.cs
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\YedinciUnite\YedinciUniteProje3\obj\Debug\net8.0\YedinciUniteProje3.csproj.CoreCompileInputs.cache
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\YedinciUnite\YedinciUniteProje3\obj\Debug\net8.0\YedinciUniteProje3.dll
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\YedinciUnite\YedinciUniteProje3\obj\Debug\net8.0\refint\YedinciUniteProje3.dll
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\YedinciUnite\YedinciUniteProje3\obj\Debug\net8.0\YedinciUniteProje3.pdb
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\YedinciUnite\YedinciUniteProje3\obj\Debug\net8.0\YedinciUniteProje3.genruntimeconfig.cache
+C:\Users\emir.sinan\OneDrive - Yağmaksan Makina A.Ş\Masaüstü\Udemy Kurslar\YedinciUnite\YedinciUniteProje3\obj\Debug\net8.0\ref\YedinciUniteProje3.dll

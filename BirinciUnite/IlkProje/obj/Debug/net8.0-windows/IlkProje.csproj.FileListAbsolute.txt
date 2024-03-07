@@ -1,0 +1,17 @@
+C:\Users\Bilgisayarım\Desktop\Udemy Kurslar\IlkProje\bin\Debug\net8.0-windows\IlkProje.exe
+C:\Users\Bilgisayarım\Desktop\Udemy Kurslar\IlkProje\bin\Debug\net8.0-windows\IlkProje.deps.json
+C:\Users\Bilgisayarım\Desktop\Udemy Kurslar\IlkProje\bin\Debug\net8.0-windows\IlkProje.runtimeconfig.json
+C:\Users\Bilgisayarım\Desktop\Udemy Kurslar\IlkProje\bin\Debug\net8.0-windows\IlkProje.dll
+C:\Users\Bilgisayarım\Desktop\Udemy Kurslar\IlkProje\bin\Debug\net8.0-windows\IlkProje.pdb
+C:\Users\Bilgisayarım\Desktop\Udemy Kurslar\IlkProje\obj\Debug\net8.0-windows\IlkProje.Form1.resources
+C:\Users\Bilgisayarım\Desktop\Udemy Kurslar\IlkProje\obj\Debug\net8.0-windows\IlkProje.csproj.GenerateResource.cache
+C:\Users\Bilgisayarım\Desktop\Udemy Kurslar\IlkProje\obj\Debug\net8.0-windows\IlkProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilgisayarım\Desktop\Udemy Kurslar\IlkProje\obj\Debug\net8.0-windows\IlkProje.AssemblyInfoInputs.cache
+C:\Users\Bilgisayarım\Desktop\Udemy Kurslar\IlkProje\obj\Debug\net8.0-windows\IlkProje.AssemblyInfo.cs
+C:\Users\Bilgisayarım\Desktop\Udemy Kurslar\IlkProje\obj\Debug\net8.0-windows\IlkProje.csproj.CoreCompileInputs.cache
+C:\Users\Bilgisayarım\Desktop\Udemy Kurslar\IlkProje\obj\Debug\net8.0-windows\IlkProje.dll
+C:\Users\Bilgisayarım\Desktop\Udemy Kurslar\IlkProje\obj\Debug\net8.0-windows\refint\IlkProje.dll
+C:\Users\Bilgisayarım\Desktop\Udemy Kurslar\IlkProje\obj\Debug\net8.0-windows\IlkProje.pdb
+C:\Users\Bilgisayarım\Desktop\Udemy Kurslar\IlkProje\obj\Debug\net8.0-windows\IlkProje.genruntimeconfig.cache
+C:\Users\Bilgisayarım\Desktop\Udemy Kurslar\IlkProje\obj\Debug\net8.0-windows\ref\IlkProje.dll
+C:\Users\Bilgisayarım\Desktop\Udemy Kurslar\IlkProje\obj\Debug\net8.0-windows\IlkProje.Proje2.resources
